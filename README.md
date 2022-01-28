@@ -1,10 +1,10 @@
 # Shallot-Doctor-Control-Arduino
-Fan controller using Arduino - Shallot Doctor, GEP 9th project  
- [(about project)](https://www.sticontest.org/index.php?mid=document01&page=6&document_srl=3252)
+Fan controller using Arduino - Shallot Doctor, GEP 9th project (2018)  
+[(About project)](https://www.sticontest.org/index.php?mid=document01&page=6&document_srl=3252)
 [(Intro video)](https://youtu.be/-kZ1KAMu8DI?t=254)
-* The name of this project is 'Shallot Doctor'. It means a storage where you can store shallot(small onion) for a long time.
+* This project's name is 'Shallot Doctor'. It means a storage where you can store shallot(kind of small onion) for a longer time.
 
-* The project controls the fan using arduino temperature and humidity sensor.
+* It is a code that automatically controls fans according to temperature using Arduino.
 
 # Requirements:
 These are main components 
