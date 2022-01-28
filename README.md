@@ -23,6 +23,9 @@ These are main components
 ![solar panel](https://user-images.githubusercontent.com/21972070/151504306-67c01583-da5f-4437-89d8-0e25363d7e49.png)|![controller](https://user-images.githubusercontent.com/21972070/151504382-283c7f3c-e2c2-416b-8e4b-5e008a9ae683.png)|![inverter](https://user-images.githubusercontent.com/21972070/151504451-aec6ffa9-55af-405e-8550-5ff80b125d28.png)|![fan](https://user-images.githubusercontent.com/21972070/151505582-a458a4b0-a45a-49ea-9d0c-c0a839024c5e.png)
 
 # Project Visuals:
+|shape of shallot doctor|heating box|
+|:-:|:-:|
+![shape of shallot doctor](https://user-images.githubusercontent.com/21972070/151516798-8d0b9949-7ea1-4637-9406-91f233140fa7.png)|![heating box](https://user-images.githubusercontent.com/21972070/151516778-4ac3fc61-6082-4ea4-a93c-860c5796d2d8.jpg)
 
 ![circuit](https://user-images.githubusercontent.com/21972070/151507223-73e9958a-65ce-4549-b85c-777ee5f85457.png)
 
@@ -30,9 +33,12 @@ These are main components
 |:-:|:-:|
 ![arduino_result](https://user-images.githubusercontent.com/21972070/151507468-607fabe0-bcdb-42db-bf5b-b2f20bcbc2f1.png)|![installed fan](https://user-images.githubusercontent.com/21972070/151507876-ddd58116-db7f-4607-9918-62a67fe317b7.jpg)
 
+
+
+#
 # Circuit 
 ![circuit](https://user-images.githubusercontent.com/21972070/151514283-1151a72d-f71b-4cb6-85ca-8191201a5dbe.png)
 
-
+#
 # Algorithm Flowchart
 ![flowchart](https://user-images.githubusercontent.com/21972070/151512733-8eb70953-5c83-46d2-bbb1-d7ee1d826d0a.PNG)
